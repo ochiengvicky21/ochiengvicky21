@@ -10,7 +10,7 @@ I specialize in developing and maintaining web applications, management informat
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [ochiengvicky21@gmail.com](mailto:ochiengvicky21@gmail.com)
-* 🚀  I'm currently working on [FindHome KE](http://findhomabay.up.railway.app)
+* 🚀  I'm currently working on [FindHome KE](https://findhomabay.up.railway.app)
 * 🧠  I'm currently learning Django
 * 👥  I'm looking to collaborate on Hospital Information Management System
 
